@@ -72,13 +72,22 @@ span{
 }
 
 .final-part{
-    margin-left: 7%;
-   
+    justify-content: center;
+    width: ;
     
 }
-.left{
+#left{
     float: left;
-    width: 30%;
-    padding-left: 5%;
+    width: 32%;
     margin-left: 5%;
+    justify-content: space-around;
+}
+#left p{
+    text-align: justify;
+    width: 40%;
+}
+#left img{
+    width: 50%;
+    height: 30%;
+    border-radius: 7px;
 }
