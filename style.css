@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family:  'Poppins', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 .flex-item{
     display: flex;
@@ -20,6 +20,12 @@ span{
     float: left;
     margin-left:7%;
 
+}
+.first-half h1{
+    font-weight: 1300;
+}
+.first-half p{
+    color: rgba(19, 19, 16, 0.493);
 }
 .first-half img{
     width: 60%;
@@ -62,6 +68,9 @@ span{
 .ektu-side-ano{
     text-align: justify;
     margin-right: 150px;
+}
+.ektu-side-ano p{
+    color: rgba(19, 19, 16, 0.493);
 }
 .sec-sec a{
     text-decoration: none;
@@ -113,10 +122,12 @@ span{
 }
 
 .last-sec{
-    margin-left: 5%;
+    display: flex;
+    margin-left: 10%;
     box-shadow: 5px 6px 10px 5px #888888;
-    width: 92%;
+    width: 87%;
     border-radius: 10px;
+    margin-bottom: 100px;
     
 }
 .bottom{
@@ -127,4 +138,11 @@ span{
 
 footer{
     text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.foot{
+    
+    background-image: linear-gradient(gray,black);
+    height: 150px;
 }
