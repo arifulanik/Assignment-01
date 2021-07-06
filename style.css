@@ -44,7 +44,7 @@ span{
     
 }
 .first-half a:hover{
-    font-weight: 900;
+    color: rgb(231, 228, 227);
 }
 
 .second-sec{
@@ -82,7 +82,7 @@ span{
     border-radius: 15px;
 }
 .sec-sec a:hover{
-    font-weight: 900;
+    color: rgb(231, 228, 227);
 }
 
 
