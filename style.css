@@ -12,7 +12,7 @@ span{
 }
 .first-sec{
     
-    height: 300px;
+    height: 400px;
     
 }
 .first-half{
@@ -42,8 +42,8 @@ span{
 }
 
 .second-sec{
-    background-image: linear-gradient(to right,rgb(241, 219, 215),rgb(241, 197, 171));
-    height: 450px;
+    background-image: url(images/7.png);
+    height: 500px;
     padding-left: 7%;
 }
 
@@ -52,7 +52,8 @@ span{
     
 }
 .sec-first img{
-    width: 70%;
+    width: 50%;
+    height: 100%;
 }
 .sec-sec{
     margin-top: 100px;
@@ -121,9 +122,9 @@ span{
 .bottom{
     width: 30%;
     margin-left: 50px;
-    text-align: center;
+    
 }
+
 footer{
     text-align: center;
-   
 }
