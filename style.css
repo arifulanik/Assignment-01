@@ -39,7 +39,7 @@ span{
 
 .second-sec{
     background-image: linear-gradient(to right,rgb(241, 219, 215),rgb(241, 197, 171));
-    height: 400px;
+    height: 450px;
     padding-left: 7%;
 }
 
@@ -66,28 +66,35 @@ span{
 }
 
 .non-flex{
-    text-align: center;
+    text-align:  center;
     margin-bottom: 50px;
     
 }
+.maje-ano{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+}
 
 .final-part{
-    justify-content: center;
-    width: ;
+    margin-right: 3%;
+    height: 380px;
     
 }
 #left{
     float: left;
-    width: 32%;
+    width: 30%;
     margin-left: 5%;
     justify-content: space-around;
+    box-shadow: 5px 6px 10px 5px #888888;
+    padding: 10px;
+    text-align: left;
+    border-radius: 5px;
 }
-#left p{
-    text-align: justify;
-    width: 40%;
-}
+
 #left img{
-    width: 50%;
-    height: 30%;
-    border-radius: 7px;
+    width: 95%;
+    height: 60%;
+    border-radius: 10px;
+    margin-top: 10px;
 }
